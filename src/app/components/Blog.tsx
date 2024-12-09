@@ -35,7 +35,7 @@ const Blog = () => {
                 Top Essential Trends in 2021
               </h4>
               <p className="text-grey-text text-sm">
-                We focus on ergonomics and meeting you where you work. It's
+                We focus on ergonomics and meeting you where you work. Its
                 only a keystroke away.
               </p>
               
@@ -62,7 +62,7 @@ const Blog = () => {
                 Top Essential Trends in 2021
               </h4>
               <p className="text-grey-text text-sm">
-                We focus on ergonomics and meeting you where you work. It's
+                We focus on ergonomics and meeting you where you work. Its
                 only a keystroke away.
               </p>
              
@@ -90,7 +90,7 @@ const Blog = () => {
                 Top Essential Trends in 2021
               </h4>
               <p className="text-grey-text text-sm">
-                We focus on ergonomics and meeting you where you work. It's
+                We focus on ergonomics and meeting you where you work. Its
                 only a keystroke away.
               </p>
               

@@ -1,4 +1,4 @@
-import { MdSend } from 'react-icons/md'; // Importing the send icon
+
 import { FaRegCopyright } from 'react-icons/fa'; // Importing the copyright icon
 
 export default function Footer() {
