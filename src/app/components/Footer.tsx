@@ -5,10 +5,10 @@ export default function Footer() {
   return (
     <footer className="bg-footerbg text-footertext">
       {/* Main footer */}
-      <div className="flex flex-col gap-4 py-16 px-28">
-        <div className="grid grid-cols-1 gap-x-3 justify-center md:grid-cols-2 lg:grid-cols-4 sm:gap-10">
+      <div className="flex flex-col gap-4 py-16 px-5 md:px-10">
+        <div className="grid grid-cols-1 gap-y-3 justify-center md:grid-cols-2 lg:grid-cols-4 sm:gap-10">
           {/* Exclusive Section */}
-          <div className=" flex flex-col gap-6">
+          <div className=" flex flex-col gap-4">
             <h3 className="font-bold text-black text-2xl">Hekto</h3>
             <div className="flex items-center justify-start py-2">
               <input className=' bg-bottombg p-2 rounded' type="text" placeholder='Enter Email Address' />
@@ -21,7 +21,7 @@ export default function Footer() {
           </div>
 
           {/* Support Section */}
-          <div className="flex flex-col gap-6">
+          <div className="flex flex-col gap-4">
             <p className="font-medium text-black text-xl">Categories</p>
             <div className="flex flex-col gap-2">
               <label> Laptops and computers</label>
@@ -33,7 +33,7 @@ export default function Footer() {
           </div>
 
           {/* Account Section */}
-          <div className="flex flex-col gap-6">
+          <div className="flex flex-col gap-4">
             <p className="font-medium text-black text-xl">Customer Care</p>
             <div className="flex flex-col gap-2">
               <label>My Account</label>
@@ -45,7 +45,7 @@ export default function Footer() {
           </div>
 
           {/* Quick Links Section */}
-          <div className="flex flex-col gap-6">
+          <div className="flex flex-col gap-4">
             <p className="font-medium text-black text-xl">Pages</p>
             <div className="flex flex-col gap-2">
               <label>Blog</label>

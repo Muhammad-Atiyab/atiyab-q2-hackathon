@@ -12,6 +12,10 @@ export default {
 		screens: {
 			
 		},
+		fontFamily: {
+			josefin: ["'Josefin Sans'", "sans-serif"], // Define a custom font family
+			lato: ["'lato'", "sans-serif"],
+		  },
   		colors: {
   			background: 'var(--background)',
   			foreground: 'var(--foreground)',
@@ -35,6 +39,7 @@ export default {
 		//cardHover
 			'buttonhover' : '#F6F7FB',
 			'cardlight3hover' : '#FFEAC1',
+			'cardbghover' : '#2F1AC4',
 		//h1
 			'text' : '#151875',
   		},
